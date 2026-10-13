@@ -1,0 +1,11 @@
+{
+  "name": "venzia-company-research-buyers",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test:offline": "node --test tests/integrations.test.js"
+  }
+}
